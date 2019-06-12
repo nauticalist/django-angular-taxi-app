@@ -1,0 +1,12 @@
+#ignore all cache files
+*.pyc
+!spec/*.pyc
+/__pycache__/*
+
+/server/env
+/server/env/*
+
+/.idea
+
+dump.rdb
+db.sqlite3
